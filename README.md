@@ -6,7 +6,7 @@ This is a sample application showing how to connect to the CityIndex API (CIAPI)
 [screenshot here]
 
 ##To install
-Download & run the installer to a Windows PC that has the .NET 4 framework installed
+[Download & run the installer](https://github.com/cityindex/ciapi.cs.screensaver/downloads) to a Windows PC that has the .NET 4 framework installed
 
 ##To build from source
 Required tools:
