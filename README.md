@@ -3,7 +3,7 @@ Windows screensaver showing current market prices & news.
 
 This is a sample application showing how to connect to the CityIndex API (CIAPI) using C#.NET
 
-[screenshot here]
+<img scr="http://content.screencast.com/users/mrdavidlaing/folders/Jing/media/faa462eb-5939-4b57-a2e2-1f2c48650d09/00000025.png"/>
 
 ##To install
 [Download & run the installer](https://github.com/cityindex/ciapi.cs.screensaver/downloads) to a Windows PC that has the .NET 4 framework installed
