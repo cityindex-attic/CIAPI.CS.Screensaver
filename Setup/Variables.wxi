@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Include>
   
-  <?define Manufacturer = "City Index" ?>
-  <?define ProductShortName = "Info Screensaver" ?>
-  <?define ProductVersion = "0.5" ?>
+  <?define Manufacturer = "City Index Ltd" ?>
+  <?define ProductShortName = "CIAPI.CS.Screensaver" ?>
+  <?define ProductVersion = "0.9" ?>
   <?define ProductVersionSuffix = "" ?>
   <?define ProductMidName = "$(var.ProductShortName) v$(var.ProductVersion) $(var.ProductVersionSuffix)" ?>
   <?define ProductLongName = "$(var.Manufacturer) $(var.ProductMidName)" ?>
 
-  <?define HomepageUrl = "http://github.com/fandrei/CityIndexScreensaver" ?>
-  <?define SupportUrl = "http://github.com/fandrei/CityIndexScreensaver" ?>
+  <?define HomepageUrl = "https://github.com/cityindex/CIAPI.CS.Screensaver" ?>
+  <?define SupportUrl = "https://github.com/cityindex/CIAPI.CS.Screensaver" ?>
   <?define UpgradeCode = "{E550DE7B-34EB-4dd7-90DD-13B5D2A65B56}" ?>
   
 </Include>
+
+

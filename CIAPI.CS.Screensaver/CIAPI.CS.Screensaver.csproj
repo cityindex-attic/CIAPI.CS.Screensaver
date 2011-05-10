@@ -9,7 +9,7 @@
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>CityIndexScreensaver</RootNamespace>
-    <AssemblyName>CityIndexScreensaver</AssemblyName>
+    <AssemblyName>CIAPI.CI.Screensaver</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
@@ -167,7 +167,7 @@
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>
-    <PostBuildEvent>copy $(TargetPath) $(TargetDir)\CityIndex.scr</PostBuildEvent>
+    <PostBuildEvent>copy $(TargetPath) $(TargetDir)\CIAPI.CS.Screensaver.scr</PostBuildEvent>
   </PropertyGroup>
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

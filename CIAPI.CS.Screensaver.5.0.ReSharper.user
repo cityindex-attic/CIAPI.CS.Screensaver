@@ -1,0 +1,29 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="BF38AD34-EED2-4CB7-AAE2-E2D9753C9A66/f:Variables.wxi" caret="0" fromTop="0" />
+      <File id="BF38AD34-EED2-4CB7-AAE2-E2D9753C9A66/f:notes.txt" caret="0" fromTop="0" />
+      <File id="BF38AD34-EED2-4CB7-AAE2-E2D9753C9A66/f:Product.wxs" caret="434" fromTop="10" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="BF38AD34-EED2-4CB7-AAE2-E2D9753C9A66/f:Product.wxs" caret="1852" fromTop="18" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.7\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
