@@ -15,4 +15,4 @@ Required tools:
 * [Wix 3.5](http://wix.codeplex.com/releases/view/60102)
 
 Open the CityIndexScreensaver.sln, Compile, then go to the binary output folder, 
-right click "CityIndex.scr" file, choose "Install" or "Test" command.
+right click "CIAPI.CS.Screensaver.scr" file, choose "Install" or "Test" command.
